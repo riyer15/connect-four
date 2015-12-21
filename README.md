@@ -1,2 +1,2 @@
 # connect-four
-connect four game, cis 120 final project
+A Java 2-player connect four game with no AI and a high scores tracker.  
